@@ -1,1 +1,0 @@
-# Reconocer-dispositivo-del-usuario
